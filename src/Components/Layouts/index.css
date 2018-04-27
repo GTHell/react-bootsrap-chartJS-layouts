@@ -1,0 +1,8 @@
+.sidebar {
+  width: 200px;
+  height: 100%;
+  margin-left: -160px;
+  float: left;
+  z-index: 8000;
+  margin-bottom: 0px;
+}
